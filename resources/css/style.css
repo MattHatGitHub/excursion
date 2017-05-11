@@ -1,0 +1,44 @@
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+p.places {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+p.soon {
+  color: aquamarine;
+  font-family: verdana;
+  text-decoration: underline;
+  font-size: 16px;
+  text-align: center;
+}
+
+p.copyright {
+  color: gray;
+  font-family: verdana;
+  text-align: right;
+  font-size: 21px;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+video {
+  text-align: center;
+}
